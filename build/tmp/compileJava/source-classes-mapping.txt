@@ -1,0 +1,12 @@
+com/uTest/testing/utils/UserEnum.java
+ com.uTest.testing.utils.UserEnum
+com/uTest/testing/userInterfaces/uTestSingUpPage.java
+ com.uTest.testing.userInterfaces.uTestSingUpPage
+com/uTest/testing/tasks/SignUpTask.java
+ com.uTest.testing.tasks.SignUpTask
+com/uTest/testing/tasks/OpenBrowserTask.java
+ com.uTest.testing.tasks.OpenBrowserTask
+com/uTest/testing/questions/VerifyFormTwoQuestion.java
+ com.uTest.testing.questions.VerifyFormTwoQuestion
+com/uTest/testing/userInterfaces/uTestHomePage.java
+ com.uTest.testing.userInterfaces.uTestHomePage
